@@ -4,5 +4,6 @@
 ## Installation:
 
 1. Install <a href="https://nodejs.org">node.js</a>
-To check if node.js installed correctly run `node -v` in your console
+<p>To check if node is installed correctly run `node -v` in your console</p>
 2. Install <a href="https://www.meteor.com/install">meteor.js</a>
+<p>To check if meteor is installed correctly run `meteor --version` in your console</p>
