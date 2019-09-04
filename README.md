@@ -4,3 +4,4 @@
 ## Installation:
 
 1. Install <a href="https://nodejs.org">node.js</a>
+2. Install <a href="https://www.meteor.com/install">meteor.js</a>
